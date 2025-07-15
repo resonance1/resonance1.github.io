@@ -1,0 +1,127 @@
+
+<html>
+<head>
+<title>Jeremy Ferwerda</title>
+<link rel="Favicon Icon" href="favicon.ico">
+
+<style type=text/css>
+
+body{
+-webkit-font-smoothing: antialiased;
+font-family: "Helvetica Neue","Open Sans", helvetica;
+
+}
+</style>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div style='padding:40px;padding-left:80px;width:1000px;'>
+<h1 style='font-family:helvetica;color:#333;font-weight:bold;margin-bottom:5px;'>Jeremy Ferwerda</h1>
+
+<p style="padding:5px;border-bottom:#ccc 1px solid;border-top:#ccc 1px solid;">
+<font style='size:11pt;color:#444;'><b>home</b> &nbsp; <font color="#999999">/</font> &nbsp; <a href="Ferwerda_CV.pdf">cv</a> &nbsp; / &nbsp; 
+<a 
+href="https://500px.com/p/jeremyferwerda?view=photos">photography</a>
+</p>
+<br>
+
+<div style="float:left;" width=150>
+<img src="newpic.jpg" width=150 style="float:left;margin-right:20px;">
+</div>
+<div style="float:right;width:800px;"><font style='size:10pt;color:#444;line-height:1.2em;'>I'm 
+an 
+Associate 
+Professor of Government at <a style='font-family:helvetica;size:10pt;color:#111;'
+href=http://govt.dartmouth.edu/>Dartmouth College</a>, where I am also affiliated with the Program in Quantitative Social Science. <br><br>
+
+My research focuses on immigration and social policy within developed democracies. In particular, my work examines (1) how 
+policies 
+affect immigrant integration, (2) how immigrants interact with the welfare state, and (3) political responses towards 
+immigrant settlement. Although my primary regional focus is on Europe, I also assess immigration policies and outcomes 
+within other destinations, such as Canada and the United States.
+
+<br><br>
+
+
+<br><b>Publications:</b><br><br>
+Do Integration Courses Influence Refugees’ Integration Trajectories? Evidence from Norway <br>
+<i>Journal
+of Politics</i>, 2025. with Henning Finseraas <a
+href="https://www.dropbox.com/scl/fi/mdone72v43i23dlpbbply/intro_jop.pdf?rlkey=adekcv5dwn2czi2i9ged5snob&e=1&dl=0">pdf</a>
+<br><br>
+sensemakr: Sensitivity Analysis Tools for OLS in R and Stata<br><i>Observational Studies</i>, 2024. with Carlos 
+Cinelli and Chad Hazlett <a 
+href="https://carloscinelli.com/files/Cinelli%20et%20al%20(2020)%20-%20sensemakr.pdf">pdf</a> 
+<br><br>
+
+Temporal Deprivation and Populism: Evidence from 19 European Countries <br>
+<i>European Journal of Political Research</i>, 2024. with Justin Gest and Tyler Reny <a 
+href="https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12738">pdf</a><br><br>
+
+How Crises Shape Circles of Solidarity: Evidence from the COVID Pandemic in Italy<br><i>Comparative Political Studies</i>, 2023.  with
+Gabriele Magni, Liesbet Hooghe,
+Gary Marks <a href="https://garymarks.web.unc.edu/wp-content/uploads/sites/13018/2022/11/2022_Ferwerda_magni_hooghe_marks_-How-Crises-Shape-Circles-of-solidarity.pdf">pdf</a><br><br>
+
+Do Immigrants Move to Welfare? Subnational Evidence from Switzerland<br>
+<i>American Journal of Political Science</i>, 2023. with 
+Moritz Marbach and Dominik Hangartner <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12766">pdf</a><br><br>
+
+How Distributional Conflict over In-Kind Benefits Generates Support for Far-Right Parties<br><i>Journal of Politics</i>, 2022.  with Charlotte 
+Cavaille. <a href="https://charlottecavaille.files.wordpress.com/2022/05/manuscript.pdf">pdf</a>
+<br><br>
+Pull Factors and Migration Preferences: Evidence from the Middle East and North Africa<br>
+<i>International Migration Review</i>, 2020. with Justin Gest. <a href="https://journals.sagepub.com/doi/pdf/10.1177/0197918320949825?casa_token=UQWkca0GE5UAAAAA:AWRWx4bOu6DmjxXw618Y72x_WBXEcJshNbm1RHFSgqzXMlspLzeC-w8C_jeLJLyX6P4o1x-ex983">pdf</a>
+<br><br>
+In Search of Community and Opportunity: The Secondary Migration of Refugees in the
+United States <br><i>Science Advances</i>, 2020. with N Mossad, J Hainmueller, D Lawrence, J Weinstein <a 
+href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3458711">pdf</a>
+<br><Br>
+Immigration, Voting Rights, and Redistribution: Evidence from Local Governments in Europe<br>
+<i>Journal of Politics</i>, 2020. <a href="VotingRights.pdf">pdf</a> | <a href="appendix.pdf">appendix</a><br><br>
+How Settlement Locations and Local Networks Influence Immigrant Political Integration<br>
+<i>American Journal of Political Science</i>, 2020. with B Bratsberg, H Finseraas, A Kotsadam <a href="https://www.cream-migration.org/publ_uploads/CDP_18_19.pdf">pdf</a>
+<br><br>
+Exposure to Immigration and Admission Preferences: Evidence from France<br>
+<i>Political Behavior</i>, 2019. with Katie Clayton and Yusaku Horiuchi <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3268904">pdf</a><Br><br>
+
+Determinants of Refugee Naturalization in the United States<br>
+<i>PNAS</i>, 2018. with  N Mossad, J Hainmueller, D Lawrence, J Weinstein <a href="https://www.pnas.org/content/pnas/115/37/9175.full.pdf">pdf</a><br><br>
+
+Voting Rights and Immigrant Incorporation: Evidence from Norway <br>
+<i>British Journal of Political Science</i>, 2018. with Henning Finseraas and Johannes Bergh <a
+href="noncitizen_bjps.pdf">pdf</a><br><br>
+
+Improving Refugee Integration through Data-driven Algorithmic Assignment <br>
+<i>Science</i>, 2018. with K Bansak, J Hainmueller, et al <a href="https://science.sciencemag.org/content/359/6373/325/tab-pdf">pdf</a><br><br>
+
+Explaining Public Opposition to Refugee Resettlement: The Role of NIMBYism and Perceived Threats <br>
+<i> Science Advances</i>, 2017. with DJ Flynn and Yusaku Horiuchi <a
+href="http://advances.sciencemag.org/content/3/9/e1700812.full">pdf</a><br><br>
+
+KRLS: A Stata Package for Kernel-Based Regularized Least Squares<br>
+<i>Journal of Statistical Software</i>, 2017. with Jens Hainmueller and Chad Hazlett <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2325523">pdf</a><br><br>
+
+Political Devolution and Resistance to Foreign Rule: Evidence from a Natural Experiment<br>
+<i>American Political Science Review</i>, 2014. with Nicholas L. Miller <a href="https://ssrn.com/abstract=2379098">pdf</a> | <a href="https://www.dropbox.com/sh/jfcr45hg1jvgs96/AAAc3t4g4HuzNYPLaCUQV3H2a?dl=0">data</a> | <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2628508">response</a> <br>
+<br>
+Electoral Consequences of Declining Participation: A Natural Experiment in Austria<br>
+<i>Electoral Studies</i>, 2014. <a href="/pdfs/6.pdf">pdf</a>
+
+<br><br>
+<b>Select Working Papers:</b><br><br>
+Shielding Voters? How Partisanship Shapes the Placement of Refugee Housing Facilities<br>Conditionally Accepted, Journal of Politics (with Sascha Riaz) <a href="https://osf.io/a9x2s/">pdf</a>
+<br><br>
+Limited Backlash? Assessing the Geographic Scope of Electoral Responses to Refugees (with Sascha Riaz) <i>R&R</i> <a href="https://osf.io/kusvh/">pdf</a><br><br>
+
+Intergenerational Effects of Refugee Integration Programs on Social and Political Integration (with Henning Finseraas)<br><br>
+
+Informing Citizens About Declining Fertility Reduces  Hostility to Immigration (with Justin Gest and Tyler Reny)<br><br>
+The Stability of Not-In-My-Backyard Attitudes toward Refugees: Evidence from the Ukrainian Refugee Crisis (with Katie Clayton and Yusaku Horiuchi) <a href="https://osf.io/preprints/socarxiv/wn32u">pdf</a><br><br>
+
+Leveraging the Power of Place: A Data-Driven Decision Helper to Improve the Location Decisions of Economic Immigrants (with K. Bansak, N. Adams-Cohen, J. Fei, D. Lawrence, J. 
+Weinstein, and J. Hainmueller) <a 
+href="https://arxiv.org/pdf/2007.13902">pdf</a>
+</div>
+</div>
+</body>
+</html>
